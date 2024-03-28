@@ -5,12 +5,19 @@ This project explores image classification using the CIFAR-100 dataset and a Con
 # Dependencies
 
 Python 3.x
+
 NumPy
+
 pandas
+
 seaborn
+
 matplotlib
+
 TensorFlow (2.x recommended)
+
 Keras
+
 
 # Installation and Execution
 
